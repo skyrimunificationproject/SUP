@@ -92,7 +92,7 @@ The below changelogs are *highlights*; the full changelogs can be searched [here
 <Details>
    <summary>Changes</summary>
    
-![Added]
+#### Added
 ~~~
 Prereqs - FOMOD Plus
 
@@ -288,7 +288,7 @@ Arch - Snazzy Towns and Settlements
 Arch - Snazzy Misc Locations
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Backported Extended ESL Support (was removed from WJ a long time ago)
 Core - dMenu
@@ -455,7 +455,7 @@ Arch - K's Interiors Lite (merged)
 Arch - Ryn's Skyrim Patch Collection (merged)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prereqs - CKPE updated to 0.5-b143.
 Prereqs - Nifskope updated to 2.0Dev11.
@@ -783,7 +783,7 @@ Arch - Snazzy Interiors Patch Collection updated to 2.0.3, added merge instructi
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Prerequisites - NIF Preview
 
@@ -1024,7 +1024,7 @@ Arch - JK's Nightingale Hall
 Arch - Ryn's Skyrim Patch Collection
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - PyramidUtils
 Core - The Taste of Death Improved Shutdown
@@ -1129,7 +1129,7 @@ Arch - ClefJ's Fort Dawnguard Patch Collection
 Arch - Lux Interiora Distincta - JK's SIlver-Blood Inn Variante
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - Creation Kit Platform Extended updated to 0.4-b952.
 Prerequisites - Nifskope updated to 2.0Dev9.
@@ -1409,7 +1409,7 @@ Final - Added ESMify instructions for Auri, Imperial Castles of Skyrim, Nature o
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Container Distribution Framework
 Core - Container Item Distributor'
@@ -1478,7 +1478,7 @@ Arch - Snazzy Interiors - Karthwasten Hall
 Arch - Snazzy Interiors - Rorik's Manor
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Stones of Solitude - Majestic Mountain Rocks
 Core - Radiance - Quests
@@ -1518,7 +1518,7 @@ Arch - Solitude Docks Updated - RS Children Patch (see Added)
 Arch - RS Children - Capital Windhelm Expansion (see Added)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - Synthesis updated to 0.30.
 Prerequisites - DynDOLOD updated to Alpha-180.
@@ -1692,7 +1692,7 @@ Arch-Final: Added RRSC-SurWR-Patch.esp ESL flag.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Snowy Statics Consistency
 Core - The Dragonborn's Bestiary
@@ -1743,7 +1743,7 @@ Arch - Capital Whiterun Expansion - Fixed Meshes
 Arch - JK's Dark Brotherhood Sanctuaries
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Prerequisites - Removed BOBW, Downgrader instructions
 Core - Dear Diary Dark Mode Compact UI
@@ -1794,7 +1794,7 @@ Adventures - Legacy of the Dragonborn - Wyrmstooth Metallurgy Patch
 Arch - Distinct Interiors ElSopa Potions Redone
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - SKSE updated to 2.2.6
 Prerequisites - LOOT updated to 0.23
@@ -2018,7 +2018,7 @@ Final Steps - Updated Bodyslide instructions
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Crash Logger SSE AE VR - PDB Support
 Core - ENB Extender for Skyrim
@@ -2103,7 +2103,7 @@ Arch - Snazzy Honningbrew Meadery
 Arch - Daedric Shrines - Quaint Raven Rock Add-on
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - .Net Script Framework
 Core - Dynamic Armor Variants for Skyrim 1.5
@@ -2145,7 +2145,7 @@ Core - Nordic Farmhouse Walls
 Adventures - Legacy of the Dragonborn - Rudy's Silver Patch
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Note - change from 1.5.97 to 1.6.1170! Many FOMOD options changed to select the correct version.
 
@@ -2310,7 +2310,7 @@ Final Steps updated: ESL DEST_ISL, remove IcyFixesLite instruction, ESL man_dibe
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Andrealphus' Papyrus Functions
 Core - Alchemy XP Fix
@@ -2369,7 +2369,7 @@ Arch - Snazzy Interiors - Morvayn Manor
 Arch - JK's Castle Volkihar
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Headpart Whitelist
 Core - Skyrim Landscape and Water Fixes
@@ -2404,7 +2404,7 @@ Adventures - Volkihar Knight - CBBE Bodyslide
 Addons - Survival - Favor Jobs Overhaul
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prereqs - Synthesis updated to 0.28.
 Prereqs - xLODGEN updated to Beta 111.
@@ -2515,7 +2515,7 @@ Arch Final Steps - Added ESM instructions for JK's Castle Volkihar.esp and Marka
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Open Animation Replacer - Dialogue Plugin
 Core - Pyramid Utils
@@ -2572,7 +2572,7 @@ Arch - Expanded Towns and Cities - Must-Foot Wine Patch
 Arch - Snazzy Drelas' Cottage
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Dragon Mound Dirt FIX
 Core - Improved Alternate Conversation Camera
@@ -2595,7 +2595,7 @@ Core - Snazzy Furniture and Clutter Overhaul Patch Collection
 Addons - Followers - Song of the Green - Dismount AI Fix
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prereqs - Persistentify Those Plugisn updated to 0.20.1.
 Prereqs - Synthesis updated to 0.27.
@@ -2731,7 +2731,7 @@ Final Steps updated - clean SkyKing Signs Interesting NPCs Patch
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Dynamic Armor Variants
 Core - Dynamic Armor Variants for Skyrim 1.5
@@ -2771,7 +2771,7 @@ Arch - Snazzy Interiors - JK's Dragonsreach
 Arch - Snazzy Interiors - JK's Palace of the Kings
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Dynamic Equipment Manager
 Core - Small Nordic Tent Replacer
@@ -2782,7 +2782,7 @@ Core - Read the Room Settings Loader
 Addons - Contraband Confiscation - lilebonymace's Patches (covered in Autoselecting)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - Creation Kit Platform Extended updated to 0.2.
 Prerequisites - DynDOLOD updated to Alpha-167.
@@ -2886,7 +2886,7 @@ Final - Added compact/ESL instructions for OutlawsRefugesProgressionPatch.esp.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Backported Extended ESL Support
 Core - Description Framework
@@ -2975,7 +2975,7 @@ Project Arch - JK's Interiors Lite
 Addons - Followers - Axarien's Animations - Auri
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Prerequisites - Skyrim Creation Kit Downgrader
 Prerequisites - SSE CreationKit Fixes
@@ -3000,7 +3000,7 @@ Core - FYX - Smooth Wells - Invisible Well Fix
 Core - Solitude Interiors Meshes Fixes - Extravagant Blue Palace
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - SSE CreationKit Fixes Updated renamed to Creation Kit Platform Extended, v0.1.
 Prerequisites - DynDOLOD Standalone updated to Alpha-165.
@@ -3167,7 +3167,7 @@ Addons - Followers - Song of the Green Auri's Fancy Pod optional file added (Lux
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Comprehensive Attack Rate Patch
 Core - Dear Diary Dark Mode - Red Circle In Paper Map
@@ -3230,7 +3230,7 @@ Arch - Solitude Watchtower
 Arch - Snazzy Interiors Patch Collection
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Unique Map Weather
 Core - A Clear Map of Skyrim and Other Worlds
@@ -3247,7 +3247,7 @@ Core - Ancient Dwemer Metal - Patches - 3D Manhole
 Core - Icy Mesh Remaster - ENB Addon
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - xEdit updated to 4.1.5.
 Prerequisites - BethINI updated to 4.10, instructions updated.
@@ -3335,7 +3335,7 @@ Final - ESMify instructions updated for +Unique Border Gates - Fixes, +IDDP Uniq
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Prerequisites - Creation Kit Downgrader
 Core - Press E To Heal Followers
@@ -3371,7 +3371,7 @@ Addons - Followers - Song of the Green - Enhanced Voice Remastered
 Adventures - Legacy of the Dragonborn Player Home Displays
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Prerequisites - MO2 Root Builder
 Core - Ruins Clutter Improved Upscaled Textures (covered elsewhere)
@@ -3392,7 +3392,7 @@ Adventures - Konahrik's Accoutrements Upscaled Textures
 Adventures - Wyrmstooth Suleyk Retexture SE
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - FallrimTools updated to 6.0.643.
 Prerequisites - xLODGEN updated to Beta 101.
@@ -3470,7 +3470,7 @@ Final - Added ESMify instructions for Windhelm Bridge Revived.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Mu Skeleton Editor
 Core - Rogue's Gallery
@@ -3524,7 +3524,7 @@ Addons - Survival - Survival Control Panel Settings Loader
 Addons - Survival - SunHelm Settings Loader
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Better Honey Nut Treats
 Core - Ancient aMidianBorn Dwarven Armory
@@ -3536,7 +3536,7 @@ Core - Rally's Torchbugs - Bugs in Jars
 Addons - Survival - Suspicious City Guards
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - DynDOLOD updated to Alpha-148.
 Core - Base Object Swapper updated to 2.6.1.
@@ -3611,7 +3611,7 @@ Final - Added ESMify instructions for FarmhouseChimneys.esp, Icy Windhelm.esp.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - dMenu
 Core - Open Animation Replacer - IED Conditions
@@ -3659,12 +3659,12 @@ Addons - Followers - Legacy of the Dragonborn - Followers Patch [Followers Addon
 Addons - Followers - Final Steps
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Frankly HD Thieves Guild Armors
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - MCM Recorder moved to Utilities. (SkyUI script overwrite)
 Core - Immersive Equipment Displays updated to 1.7.2.
@@ -3690,7 +3690,7 @@ Adventures - Final - Added ESM instructions for moonpath.esp.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Scripts Carefully Reworked Optimized and Tactically Enhanced
 Core - Simple Snow Improvements - Solstheim Ruins - Base Object Swapper
@@ -3706,7 +3706,7 @@ Arch - Snazzy Interiors - Solitude Erikur's House
 Arch - Rob's Bug Fixes - Capital Whiterun Expansion
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - DLC2AudioRepeaterActivator01Script Tweak
 Core - DLC2dunFrostmoonTriggerScript Optimization
@@ -3731,7 +3731,7 @@ Core - Vanilla Armors and Clothing - CBBE SSE - No Rim Lighting
 Core - XP32 Maximum Skeleton Special Extended - Settings Loader
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prereqs - Synthesis updated to 0.26.
 Prereqs - DynDOLOD updated to Alpha-134.
@@ -3805,7 +3805,7 @@ Addons - Favor Jobs Overhaul updated to 2.7.2.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Open Animation Replacer
 Core - Dual Casting Fix
@@ -3879,7 +3879,7 @@ Arch - Windhelm House of Clan Shattershield
 Arch - High Poly NPC Overhaul Capital Whiterun Expansion
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Staves On Self Fix
 Core - Grass Terrain Remade
@@ -3900,7 +3900,7 @@ Arch - Modpocalypse NPCs JK's Skyrim
 Arch - Rodryk's Dragon Bridge Retexture Matching LOD Textures
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prereq - CAO updated to 5.3.15.
 Core - Base Object Swapper updated to 2.6.0.
@@ -4023,7 +4023,7 @@ Final - Updated Nemesis instructions.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - AnimObject Swapper
 Core - Dynamic Animation Casting NG
@@ -4115,7 +4115,7 @@ Core - ENB - Rudy NAT
 Adventures - Falmer Overhaul - My Patches
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - TrapSwingingWall Script Fix (now in USSEP)
 Core - Weathered Apiary Texture
@@ -4158,7 +4158,7 @@ Adventures - Unique Skulls HD
 Adventures - Helgen Reborn - Keepers of Hattu Retexture
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 MO2 - Seperators/numbering adjusted
 Prereqs - DynDOLOD updated to Alpha-128.
@@ -4238,7 +4238,7 @@ Final - Added ESM instructions for SFCO
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Sound Fix for Large Sector Drives
 Core - 3D Manhole
@@ -4248,7 +4248,7 @@ Arch - Blue Palace Frescoes Simplified
 Arch - Environs - Master Plugin
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Skyrim Sewers - Manhole Improvements
 Core - Ancient Dwemer Metal - Patches - Skyrim Sewers
@@ -4266,7 +4266,7 @@ Adventures - Modpocalypse NPCs - Legacy of the Dragonborn
 Adventures - Modpocalypse NPCs - Wyrmstooth
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - Synthesis updated to 0.25.4
 Prerequisites - DynDOLOD updated to Alpha-126
@@ -4359,7 +4359,7 @@ Arch - Final Steps - Added ESMifier instructions for Blue Palace Frescoes, Disti
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - MCM Recorder
 Core - Sprint Sneak Movement Speed Fix
@@ -4408,7 +4408,7 @@ Core - Subdivide and Smooth - Hagraven
 Adventures - Legacy of the Dragonborn - Gemstones Remade
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - SmoothCam - EasyEase Preset
 Core - A Fungal Pod (mod hidden for rework)
@@ -4417,7 +4417,7 @@ Core - CC's HQ Barset
 Core - Dynamic Random Spell Idle (conflict with Smooth)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - Changed ESMifier script to Persistentify Those Plugins
 Prerequisites - DynDOLOD updated to Alpha-121.
@@ -4495,7 +4495,7 @@ Final - Better Courier added to Quick Auto Clean list.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Extended UI
 Core - Ancient Dwemer Patches - Aetherial Crown
@@ -4503,7 +4503,7 @@ Core - Veydesbrom Regions for ENB Complex Grass
 Adventures - Konahrik's Accoutrements - Fixed ESP
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - HD LODs Textures
 Core - Forgotten Herbs
@@ -4512,7 +4512,7 @@ Core - aMidian Blade of Woe
 Adventures - Better Falskaar and Wyrmstooth Map
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - Synthesis updated to 0.25.3.
 
@@ -4661,7 +4661,7 @@ Adventures - Final - removed moonpath instructions (replacer)
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Animation Queue Fix
 Core - Reading is Good
@@ -4717,7 +4717,7 @@ Adventures - Helgen Reborn Keepers of Hattu Retexture
 Adventures - Legacy of the Dragonborn - Armor of the Crusader Retexture
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Noble Skyrim
 Core - Canticle Tree
@@ -4733,7 +4733,7 @@ Adventures - Artifacts The Breton Paladin
 Adventures - Legacy of the Dragonborn - FrankFamily's Paladin Replacer
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prereqs - LOOT updated to 0.19.1
 Prereqs - DynDOLOD updated to Alpha-111.
@@ -4795,7 +4795,7 @@ Core - SUP Replacement Plugins updated
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Console Plus Plus
 Core - Standing Ambusher Fix
@@ -4806,7 +4806,7 @@ Core - Caves and Dungeons - CC's HQ Mines Redone
 Core - Flora - ElSopa Briar Heart
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Map - Dynamic Snow for Map (ACMOS covered)
 Core - Farmhouses - SD's Farmhouse Fences (KG)
@@ -4815,7 +4815,7 @@ Core - Elder Council Amulet Replacer (combined with Elder Scroll)
 Core - Skyrim 3D Misc - Buckets (see changelog)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - DynDOLOD updated to Alpha-110.
 
@@ -4879,7 +4879,7 @@ Final - Removed instructions for ImperialSoldiersEscortFix, BUVARP CFTO, WedDial
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - LOOT updated to 0.18.6.
 Prerequisites - Synthesis updated to 0.25.2.
@@ -4957,13 +4957,13 @@ Survival - Favor Jobs Overhaul updated to 2.2.0.
 <Details>
    <summary>Changes</summary>
 
-![Removed]
+#### Removed
 ~~~
 Core - Animated Wedding Scene (mod deleted)
 Core - Rude Imperial Soldiers Escort Prisoner Fix (mod deleted)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - FormList Manipulator updated to 1.5.4.
 Core - Particle Patch for ENB updated to 1.1.7.
@@ -4997,20 +4997,20 @@ Final - Added compact instructions for IcyFixes
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Prerequisites - CK Fixes Updated
 Core - Rally's Crates
 Core - Mari's Ivy Nordic Ruins Addon
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Replacement Ivy
 Core - CBBE Creation Club Outfits Bodyslides (covered in official CBBE)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - Updated tool instructions
 
@@ -5033,7 +5033,7 @@ Core - SUP Conflict Resolution patches updated.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Barter Limit Fix
 Core - Behavior Data Injector
@@ -5147,7 +5147,7 @@ Adventures - Legacy of the Dragonborn - Fate Cards New Style
 Adventures - Legacy of the Dragonborn - Museum Gate Remade
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - A Quality World Map (replaced with ACMOS)
 Core - Skyrim Bridges (Northern Roads replacement)
@@ -5167,7 +5167,7 @@ Core - Crystalline Fire Salts (replaced with Kabu)
 Adventures - Legacy of the Dragonborn - Fate Cards Re-texture
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - Cathedral Assets Optimizer updated to 5.3.14.
 Prerequisites - Synthesis updated to 0.24.
@@ -5354,7 +5354,7 @@ Survival - Addon section added.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Splashes of Storms
 Core - Actually Flat Flat Snow Drifts
@@ -5373,14 +5373,14 @@ Core - Quest Journal Limit Bug Fixer
 Adventures - Wyrmstooth Animated ENB Light
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Know Your Enemy Redux (creating SUP alternative)
 Core - Valravn (Blade and Blunt)
 Core - Valravn Uncloaked
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Bandoliers Cleaned Textures updated to 1.1.
 Core - BUVARP updated to 1.1b. (re-ESM)
@@ -5420,10 +5420,6 @@ Adventures - There Is No Umbra updated to 1.32. (re-ESM)
 Final Steps - removed xedit instr. for Obsidian Mountain Fogs.
 ~~~
 
-![Regenerate]
-~~~
-Texgen, DynDOLOD, Nemesis
-~~~
 
 </Details>
 
@@ -5432,7 +5428,7 @@ Texgen, DynDOLOD, Nemesis
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - No Crime Teleport RE
 Core - Unaggressive Dragon Priests Fix
@@ -5442,7 +5438,7 @@ Core - Security Overhaul Patch for Ordinator
 Core - Deadly Spell Impacts Transparency Fix
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - NPCs Use Potions updated to 2.3.
 Core - Particle Patch for ENB updated to 1.0.9.
@@ -5463,7 +5459,7 @@ Adventures - Legacy of the Dragonborn Patches updated to 2.9.1.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Horse Stamina HUD
 Core - First Person Sneak Strafe-Walk Stutter Fix
@@ -5496,7 +5492,7 @@ Core - Triumvirate Cleaned Textures
 Core - Wintersun Cleaned Textures
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Alternate Conversation Camera Tweaks
 Core - Heart of the Beast Werewolf Sound Overhaul
@@ -5513,7 +5509,7 @@ Core - Smithing Perks Overhaul - Ordinator - Mashup
 Core - Upgraded Blackreach Mushrooms for CACO
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - Added CAO profile link
 Core - The Stumbling Sabrecat updated to 1.2.1.
@@ -5574,7 +5570,7 @@ Several mods had CAO instructions added:
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Classic Paralysis
 Core - Essential Favorites
@@ -5601,13 +5597,13 @@ Core - High Poly Dragonborn Ingredients
 Core - Conflict Resolution - Skyrim Unification Project Replaced Plugins
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Near Vanilla Project Control Cube (JS)
 Core - Enchanting Adjustments (SUP)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prereq - DynDOLOD updated to 3.0 Alpha-95
 Core - NPCs Use Potions updated to 2.2.
@@ -5656,7 +5652,7 @@ Core - SUP Gameplay Overhaul, Consistency Patches, and Conflict Resolution updat
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Vanilla Scripting Enhancements
 Core - Boreal Boats
@@ -5672,7 +5668,7 @@ Core - FYX - Smooth Wells
 Core - Solitude Object SMIMed - Solitude Well
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Mrf's Markarth 4K (Stony AF)
 Core - High Fantasy Whiterun (Illustrious)
@@ -5682,7 +5678,7 @@ Core - Revamped Assets (redundant with Snazzy)
 Core - Enchanting Stations Candles (redundant with Snazzy)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prereq - xLODGEN updated to v94.
 Prereq - DynDOLOD 3 Alpha updated to Alpha-94.
@@ -5724,7 +5720,7 @@ Core - SUP Gameplay Overhaul, Consistency Patches, Conflict Resolution updated.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - NPCs Use Potions
 Core - Soaking Wet
@@ -5741,7 +5737,7 @@ Core - Random Prayer Animation
 Core - Nocturnal Moths
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Near Vanilla Project - Portal to Sovngarde Redone (Overlooked Retextures)
 Core - Modpocalypse NPCs - Immersive Patrols (until updated)
@@ -5749,7 +5745,7 @@ Core - Rudy HQ - More Lights - Bthardamz (JS Dwemer Barrels)
 Core - Rudy HQ - More Lights - Torchbugs and Moths (Rally)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - LOOT updated to 0.18.3.
 Prerequisites - BethINI updated to 3.6.1. (missed this update)
@@ -5788,7 +5784,7 @@ Core - SUP Gameplay, Consistency Patches and Conflict Resolution updated.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Stones of Solitude Majestic Mountain Rocks
 Core - FYX 3D Solitude Sighpost
@@ -5796,7 +5792,7 @@ Core - Solitude Objects SMIMed
 Core - CC's Enhanced Ore Veins
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Papyrus Extender updated to 5.1.0.
 Core - DynDOLOD Resources updated to Alpha-26.
@@ -5827,7 +5823,7 @@ Core - SUP Conflict Resolution updated without version change.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - SMIM Barrel Expansion
 Core - JS Dwemer Artifacts SE
@@ -5837,12 +5833,12 @@ Core - Sconces of Skyrim
 Core - Particle Lights - Ice Torches
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Pause After Load Unscripted (weird lighting flickers)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - Cathedral Assets Optimizer updated to 5.3.13.
 Core - Nilheim Misc Quest Expansion updated to 1.12.
@@ -5866,7 +5862,7 @@ Core - Immersive Citizens updated to 0.4.0.1.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Critter Spawn Congestion Fix
 Core - The Midden Expanded
@@ -5880,7 +5876,7 @@ Core - JS Unique Utopia SE - Daggers
 Core - Praedy's Staves AIO
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Elemental Staffs (replaced with Praedy)
 Core - Eyes and Staves of Magnus (replaced with Praedy)
@@ -5888,7 +5884,7 @@ Core - Immersive Patrols Simplified (no longer needed)
 Core - Elemental Staffs - Apocalypse (replaced with Praedy)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Papyrus Extender updated to 5.0.3.
 Core - Better Third Person Selection updated to 0.5.4.
@@ -5920,7 +5916,7 @@ Core - SUP Conflict Resolution, Gameplay Overhaul updated without version change
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Soul-Cairn Objects Secured
 Core - Skyland Imperial Forts
@@ -5936,7 +5932,7 @@ Core - Alchemy Ingredients ENB Light
 Core - Particle Lights - Falmer Things
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Skyland AIO (replaced with individuals)
 Soul Cairn HD (replaced with Praedy)
@@ -5953,7 +5949,7 @@ The New Ideal (covered by The Soul Cairn)
 Particle Lights - Ingredients (replaced with ws version)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Immersive Equipment Displays updated to 1.5.0.
 Core - Better Courier updated to 1.7.1.
@@ -6001,7 +5997,7 @@ Core - Savage Skyrim updated to 4.00.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Freezing Cold Frost Salts
 Core - Hagraven Feathers
@@ -6015,14 +6011,14 @@ Core - Spiders of Solstheim ENB Light
 Core - Sprites or Specters ENB Light
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Salts Retextured (now covered by others)
 Core - Northfire's Windhelm (now covered by Ancient AF)
 Core - Skyrim Textures Redone Skyhaven (replaced)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - LOOT updated to 0.18.2, changed download link
 Core - C.O.I.N. updated to 1.1.11.
@@ -6065,13 +6061,13 @@ Core - Windhelm Fake Windows Fix updated to 2.31.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Kalilies Brows for High Poly Head
 Core - Northborn Scars for High Poly Head
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Thieves Guild Requirements updated to 5.2.
 Core - Better Third Person Selection updated to 0.3.3.
@@ -6081,7 +6077,7 @@ Core - Complete Crafting Overhaul Remastered Settings Loader updated to 1.1.0.
 Core - EVG Conditional Idles Setting Loader updated to 2.0.0.
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Atlas Map Markers Small Fixes (fixed in main mod)
 Core - Modpocalypse NPCs Heritage (will return w/ Heritage)
@@ -6094,7 +6090,7 @@ Core - Modpocalypse NPCs Heritage (will return w/ Heritage)
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Better Third Person Selection
 Core - Enhanced Invisibility
@@ -6157,7 +6153,7 @@ Core - Crystalline Fire Salts
 
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Dynamic Volumetric Lighting and Sun Shadows (replaced)
 Core - Skyrim Unbound Reborn (replaced with ASLAL)
@@ -6168,7 +6164,7 @@ Core - RUSTIC Animated Potions and Poisons (replaced with Awesome)
 Core - Heritage 2 (will return later)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Prerequisites - CAO updated to 5.3.12.
 Core - Cloaks of Skyrim Retextured - added update file.
@@ -6212,14 +6208,14 @@ Core - SUP Confict Resolution updated. (REPLACE)
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Security Overhaul Regional Locks
 Core - Dark Elf Lantern ENB Light
 Core - Unique Markarth Doors
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Whiterun Mesh Fixes updated to 1.2.5.
 Core - Security Overhaul SKSE updated to 3.0.
@@ -6249,12 +6245,12 @@ Core - Improved Traps updated to 2.5.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Blended Roads (required blackreach meshes)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Dear Diary Dark mode updated to 1.0.1.
 Core - Timing Is Everything changed to non-FISS version.
@@ -6281,7 +6277,7 @@ Core - More Informative Console moved to SKSE Plugins
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Core - powerofthree's Tweaks updated to 1.5.1.
 Core - NPC AI Process Pos Fix - added optional file.
@@ -6302,12 +6298,12 @@ Core - Sacrilege updated to 2.1.0.
 <Details>
    <summary>Changes</summary>
 
-![Removed]
+#### Removed
 ~~~
 Core - Ruins Clutter Improved Fixes (revised RCI instructions)
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Equip Enchantment Fix updated to 1.3.4.
 Core - powerofthree's Papyrus Extender updated to 4.5.7.
@@ -6330,13 +6326,13 @@ Core - Water in Wells - updated FOMOD instructions
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - JS Lockpicking UI
 Core - Dear Diary Dark Mode
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Security Overhaul SKSE updated to 2.1.0.
 Core - SSE Display Tweaks updated to 0.5.9.
@@ -6355,7 +6351,7 @@ Core - Savage Skyrim updated to 3.98.
 Core - Sets of Skills updated to 1.2.
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - NORDIC UI
 Core - NORDIC UI - Miscellaneous Patches
@@ -6369,7 +6365,7 @@ Core - SkyUI Weapons Pack SE
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Core - Vanilla Script Microoptimizations updated to 1.13.
 Core - Skyrim Unbound Reborn updated to 1.6.15.
@@ -6391,7 +6387,7 @@ Addons - Corrected Northgirl downloads
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Base Object Swapper
 Core - Stones of Solitude
@@ -6401,13 +6397,13 @@ Core - Cathedral 3D Mountain Flowers - Base Object Swapper
 Core - Dynamic Things Alternative - Base Object Swapper
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Flickering Meshes Fix
 Core - Dynamic Things Alternative
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Navigator updated to 1.1.3.
 Core - Added replacer esp for Wares of Tamriel
@@ -6429,13 +6425,13 @@ Final - Added missing ESM instruction for s6 Oblivion Gates.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Shaders of Solstheim - Ash and Moss
 Core - XPMSSE - Nemesis - Papyrus Stack Fix
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Assorted Mesh Fixes updated to 0.39.1.
 Core - Lux updated to 3.8.
@@ -6446,7 +6442,7 @@ Core - SUP Conflict Resolution - updated Lux patch.
 Final - Added xEdit instructions for AVExpansion_ICFH Add-on.esp
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Better Dynamic Ash - Note: keep the meshes/ from this mod
   until the next main CR update.
@@ -6459,7 +6455,7 @@ Core - Better Dynamic Ash - Note: keep the meshes/ from this mod
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Core - Simplicity of Snow updated to 0.5.
 Core - Assorted Mesh Fixes updated to 0.39.
@@ -6476,7 +6472,7 @@ Core - Odin updated to 1.9.1.
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Intro - Updated CAO to 5.3.9.
 Core - Animated Forge Water updated to 0.5.
@@ -6491,7 +6487,7 @@ Core - YASTM updated to 1.9.0-beta.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Addon - Armor and Weapons - Black Sacrament Armor
 Addon - Armor and Weapons - Colovian Leather Armor and Outfit
@@ -6507,13 +6503,13 @@ Addon - Armor and Weapons - Wayfarer's Coat
 Addon - Armor and Weapons - Wilderness Witch Outfit
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - SSE Display Tweaks updated to 0.5.7b.
 Core - Storm Lightning updated to 1.4.13.
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - FISSES
 ~~~
@@ -6525,14 +6521,14 @@ Core - FISSES
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Spiders of Solstheim
 Core - Armor Variants Expansion
 Core - Beyond Skyrim Wares of Tamriel
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Security Overhaul Add-ons updated to 0.1.2.
 Core - Assorted Mesh Fixes updated to 0.37.
@@ -6554,7 +6550,7 @@ Utilities - Predator Vision Settings Loader updated to 1.0.1.
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Introduction - Updated CAO version to 5.3.8.
 Core - The Choice is Yours updated to 2.3.
@@ -6572,7 +6568,7 @@ Final - Added BUVARP CFTO patch ESL instructions
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Core - Simple Block Sparks updated to 0.25.
 Core - Updated Arctic post-install instructions.
@@ -6588,12 +6584,12 @@ Core - Updated Reliquary of Myth to 4.3.2.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Security Overhaul Add-Ons
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Updated Skyrim Particle Patch instructions.
 Core - Security Overhaul SKSE updated to 2.0.1.
@@ -6609,14 +6605,14 @@ Final - Updated 3DNPC instructions. Updated Nemesis instructions.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Blended Roads Redone
 Core - Quality CubeMaps
 Core - Bellyaches Animal and Creature Pack
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Assorted Mesh Fixes updated to 0.36.
 Core - Updated Lux FOMOD instructions.
@@ -6633,7 +6629,7 @@ Core - Skyrim Unification Project Conflict Resolution link updated
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Core - Security Overhaul SKSE updated to 2.0.
 Core - Lux updated to 3.7.
@@ -6649,7 +6645,7 @@ Core - Water in Wells updated to 0.6.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Simple Block Sparks - Script Free
 Core - Mage Armor Script Fix
@@ -6660,7 +6656,7 @@ Core - Slow sprint bug fix
 Core - Weapons Repositioner
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - NPC AI Process Position Fix SSE updated to 4.06.
 Core - Stumbling Sabrecat updated to 1.2.
@@ -6682,7 +6678,7 @@ Final - Updated MCM instructions to account for provided config files.
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Core - SSE Display Tweaks updated to 0.5.6b.
 Core - Reliquary of Myth updated to 4.2.2.
@@ -6696,7 +6692,7 @@ Core - Weapons Armor Clothing and Clutter Fixes updated to 2.7.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Utilities
    A Matter of Time - Settings Loader
@@ -6720,7 +6716,7 @@ but in a future update SUP Conflict Resolution will come with
 files to initialize these automatically for you.
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Better Courier updated to 1.7.
 Core - Experience updated to 2.0.2.
@@ -6735,12 +6731,12 @@ Core - Forceful Tongue updated to 3.0.5.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Sleeping Expanded
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - powerofthree's Papyrus Extender updated to 4.5.5.
 Core - CoMAP updated to 3.4.1.
@@ -6756,7 +6752,7 @@ Final - Fixed some xEdit instruction errors.
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Core - High Hrothgar Fixed moved to Late Loaders - Meshes
 Core - Rustic Windows instructions updated
@@ -6764,10 +6760,6 @@ Core - WizKiD Hall of the Dead moved to Late Loaders - Meshes
 Core - Lux instructions updated
 ~~~
 
-![Regenerate]
-~~~
-Texgen, DynDOLOD
-~~~
 
 </Details>
 
@@ -6776,13 +6768,13 @@ Texgen, DynDOLOD
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Intro - Easy NPC
 Core - CBBE Vanilla Armors - No Rim Lighting
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Spell Perk Item Distributor updated to 5.2.0.
 Core - Finding Helgi... and Laelette - A Laid to Rest Overhaul 
@@ -6809,7 +6801,7 @@ Final Steps - Moved quick clean xedit steps to own section, added EasyNPC
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Intro - CAO updated to 5.3.7.
 Core - Assorted Mesh Fixes updated to 0.35.1.
@@ -6827,12 +6819,12 @@ Final Steps - Added ESM instructions for Embers/Water For ENB.
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Ultimate Combat And Creatures Compatibility for Nemesis
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - Better Container Controls updated to 3.1.
 Core - Moved Rudification to Core 3/Late Loaders Meshes.
@@ -6849,7 +6841,7 @@ Final Steps - Updated instructions. (EasyNPC still pending)
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 General - Quality pass for instructions etc., added fomod instructions
    where missing, clarified some mod installs
@@ -6868,7 +6860,7 @@ Core - Added patches link to YOT
 <Details>
    <summary>Changes</summary>
 
-![Updated]
+#### Updated
 ~~~
 Introduction - Added recommended [TerrainManager] to SkyrimPrefs.ini 
 Core - Smooth Combat non-Combat updated to 4.0
@@ -6882,7 +6874,7 @@ Core - WACCF updated to 2.6
 <Details>
    <summary>Changes</summary>
 
-![Added]
+#### Added
 ~~~
 Core - Encounter Zones Unlocked SE
 Core - Security Overhaul Lock Variations
@@ -6906,12 +6898,12 @@ Core - WACCF CBBE Bodyslide
 Core - Water in Wells
 ~~~
 
-![Removed]
+#### Removed
 ~~~
 Core - Skyrim Project Optimization
 ~~~
 
-![Updated]
+#### Updated
 ~~~
 Core - SSE Engine Fixes updated to 5.8.3
 Core - Assorted Mesh Fixes updated to 0.35
@@ -6920,9 +6912,3 @@ Core - Skyrim Unification Project Gameplay Overhaul - added link
 ~~~
 
 </Details>
-
-[added]: https://img.shields.io/badge/Added-006000?style=for-the-badge
-[regenerate]: https://img.shields.io/badge/Regenerate-important?style=for-the-badge
-[updated]: https://img.shields.io/badge/Updated-informational?style=for-the-badge
-[removed]: https://img.shields.io/badge/Removed-critical?style=for-the-badge
-[bugfixes]: https://img.shields.io/badge/Bugfixes%20and%20Changes-blue?style=for-the-badge
