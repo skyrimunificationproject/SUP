@@ -323,7 +323,6 @@ Google Drive Files:
 
 - [High Poly Head v1.4 (SE)](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 
-Patreon Files: (These are free to download)
 
 
 # Post-Installation and Optional Setup
