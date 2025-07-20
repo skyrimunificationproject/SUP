@@ -1,12 +1,12 @@
-![](https://raw.githubusercontent.com/skyrimunificationproject/SUP-WJ/main/images/Banner.png)
+![](https://raw.githubusercontent.com/skyrimunificationproject/SUP/main/images/Banner.png)
 
 <p align="center>
 [ <a href="https://www.nexusmods.com/skyrimspecialedition/">Nexus</a> |
 Installation |
-<a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
-<a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/CHANGELOG.md">Changelog</a> |
+<a href="https://github.com/skyrimunificationproject/SUP/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
+<a href="https://github.com/skyrimunificationproject/SUP/blob/main/CHANGELOG.md">Changelog</a> |
 <a href="https://loadorderlibrary.com/lists/skyrim-unification-project">Load Order</a> |
-<a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/FAQ.md">FAQ</a> ]
+<a href="https://github.com/skyrimunificationproject/SUP/blob/main/FAQ.md">FAQ</a> ]
 </p>
 
 ---
@@ -63,7 +63,7 @@ Skyrim Unification Project is built around Skyrim Unification Project - Gameplay
 
 A full list of the mods used in this modlist can be viewed [here](https://loadorderlibrary.com/lists/skyrim-unification-project).
 
-You can find a summary of all relevant gameplay changes and notable mods on the [Gameplay Guide](https://github.com/skyrimunificationproject/SUP-WJ/blob/main/GAMEPLAY.md).
+You can find a summary of all relevant gameplay changes and notable mods on the [Gameplay Guide](https://github.com/skyrimunificationproject/SUP/blob/main/GAMEPLAY.md).
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -363,7 +363,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 
 Windows Scaling can prevent games from displaying correctly, and will often result in the game appearing "zoomed in". To fix this, find the `SkyrimSE.exe` located in your `[Path to Modlist]\Stock Game` and follow the steps in the images below:
 
-![](https://raw.githubusercontent.com/SkyrimUnificationProject/SUP-WJ/main/images/skyrim-scaling.png)
+![](https://raw.githubusercontent.com/SkyrimUnificationProject/SUP/main/images/skyrim-scaling.png)
 
 </Details>
 
@@ -405,13 +405,13 @@ You can review the default keybinds in game by pressing `F11`.
 ## Gamepad Keybinds
 
 >[!WARNING]
->Gamepads may need additional setup in order to work as intended. Please refer to the [Configuration](https://github.com/SkyrimUnificationProject/SUP-WJ/blob/main/Documentation/CONFIG.md#gamepad-support) page.
+>Gamepads may need additional setup in order to work as intended. Please refer to the [Configuration](https://github.com/SkyrimUnificationProject/SUP/blob/main/Documentation/CONFIG.md#gamepad-support) page.
 
 
 # Playing the List
 
 >[!WARNING]
->Before starting the list, read over the [Configuration](https://github.com/SkyrimUnificationProject/SUP-WJ/blob/main/Documentation/CONFIG.md), [FAQ](https://github.com/SkyrimUnificationProject/SUP-WJ/blob/main/Documentation/FAQ.md), and [Gameplay](https://github.com/SkyrimUnificationProject/SUP-WJ/blob/main/GAMEPLAY.md) pages.
+>Before starting the list, read over the [Configuration](https://github.com/SkyrimUnificationProject/SUP/blob/main/Documentation/CONFIG.md), [FAQ](https://github.com/SkyrimUnificationProject/SUP/blob/main/Documentation/FAQ.md), and [Gameplay](https://github.com/SkyrimUnificationProject/SUP/blob/main/GAMEPLAY.md) pages.
 
 ## Before Launching the Game
 
@@ -420,11 +420,11 @@ You can review the default keybinds in game by pressing `F11`.
 
 ## Actually Playing the Game
 
- 1. Before Launching the game, read over the [Gameplay Guide](https://github.com/SkyrimUnificationProject/SUP-WJ/blob/main/GAMEPLAY.md).
+ 1. Before Launching the game, read over the [Gameplay Guide](https://github.com/SkyrimUnificationProject/SUP/blob/main/GAMEPLAY.md).
  2. Launch the "SKSE" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
  3. Select the **New Game** button.
  4. Create your character. All presets should default to High Poly Head settings in RaceMenu.
- 5. **(OPTIONAL)** Refer to the different MCM options listed on the [Configuration](https://github.com/SkyrimUnificationProject/SUP-WJ/blob/main/Documentation/CONFIG.md#in-game-mcm-options) to adjust any MCM settings you'd like.
+ 5. **(OPTIONAL)** Refer to the different MCM options listed on the [Configuration](https://github.com/SkyrimUnificationProject/SUP/blob/main/Documentation/CONFIG.md#in-game-mcm-options) to adjust any MCM settings you'd like.
  6. Talk to the Statue of Mara and pick a start option. While you can do the vanilla intro "Got caught crossing the border", generally the vanilla-adjacent start "Camping in the woods" is recommended for a new player. If you are a veteran player, feel free to choose any option. You can also choose "I am the Guild Master of the Dragonborn Museum" for the special LOTD start (bypasses some content), or "Arrived by boat/Solitude" and accept the prompt when you arrive to become the museum Relic Hunter (no LOTD content skipped).
  7. Sleep on the bed to begin.
 
@@ -440,7 +440,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
 >[!IMPORTANT]
->Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](https://github.com/SkyrimUnificationProject/SUP-WJ/blob/main/CHANGELOG.md). It is suggested that you backup your saves before updating if you plan on continuing them.
+>Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](https://github.com/SkyrimUnificationProject/SUP/blob/main/CHANGELOG.md). It is suggested that you backup your saves before updating if you plan on continuing them.
 
 
 # Removing the Modlist
@@ -449,7 +449,7 @@ Simply delete the Skyrim Unification Project folder.
 
 # Issues
 
-Please check the [FAQ](https://github.com/SkyrimUnificationProject/SUP-WJ/blob/main/Documentation/FAQ.md) first if you have any issues.
+Please check the [FAQ](https://github.com/SkyrimUnificationProject/SUP/blob/main/Documentation/FAQ.md) first if you have any issues.
 
 >[!TIP]
 >If you encounter any bugs or issues while playing the list, please visit our [Skyrim Unification Project](https://discord.gg/UAhtyb2XuK) support server.

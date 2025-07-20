@@ -1,12 +1,12 @@
-![](https://raw.githubusercontent.com/skyrimunificationproject/SUP-WJ/main/images/Banner.png)
+![](https://raw.githubusercontent.com/skyrimunificationproject/SUP/main/images/Banner.png)
 
 <p align="center>
 [ <a href="https://www.nexusmods.com/skyrimspecialedition/">Nexus</a> |
-<a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/README.md">Installation</a> |
-<a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
-<a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/CHANGELOG.md">Changelog</a> |
+<a href="https://github.com/skyrimunificationproject/SUP/blob/main/README.md">Installation</a> |
+<a href="https://github.com/skyrimunificationproject/SUP/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
+<a href="https://github.com/skyrimunificationproject/SUP/blob/main/CHANGELOG.md">Changelog</a> |
 <a href="https://loadorderlibrary.com/lists/skyrim-unification-project">Load Order</a> |
-<a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/FAQ.md">FAQ</a> ]
+<a href="https://github.com/skyrimunificationproject/SUP/blob/main/FAQ.md">FAQ</a> ]
 </p>
 
 ---
@@ -26,7 +26,7 @@ The below changelogs are *highlights*; the full changelogs can be searched [here
 
   - [1.0 RC 12](#10rc12) Release Date: June 8
 
-### 1.0 RC 8
+### 1.0 RC 12
 
    Key Info
    
@@ -63,9 +63,15 @@ The below changelogs are *highlights*; the full changelogs can be searched [here
    
    #### Added
    
+   - None
+   
    #### Removed
    
+   - None
+   
    #### Updated
+   
+   - None
    
    </Details>
    
@@ -74,6 +80,10 @@ The below changelogs are *highlights*; the full changelogs can be searched [here
    
    #### Bug Fixes
    
+   - None
+   
    #### Misc. Tweaks
+   
+   - None
    
    </Details>
