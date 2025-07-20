@@ -91,6 +91,7 @@ The below changelogs are *highlights*; the full changelogs can be searched [here
  ### 1.0.0.0 RC12 - 2025-06-08
 <Details>
    <summary>Changes</summary>
+   
 ![Added]
 ~~~
 Prereqs - FOMOD Plus
