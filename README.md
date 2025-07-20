@@ -6,7 +6,7 @@ Installation |
 <a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
 <a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/CHANGELOG.md">Changelog</a> |
 <a href="https://loadorderlibrary.com/lists/skyrim-unification-project">Load Order</a> |
-<a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/FAQ.md">FAQ</a> |
+<a href="https://github.com/skyrimunificationproject/SUP-WJ/blob/main/FAQ.md">FAQ</a> ]
 </p>
 
 ---
