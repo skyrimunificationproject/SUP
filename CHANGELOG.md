@@ -5794,7 +5794,6 @@ Core - Stones of Solitude Majestic Mountain Rocks
 Core - FYX 3D Solitude Sighpost
 Core - Solitude Objects SMIMed
 Core - CC's Enhanced Ore Veins
-
 ~~~
 
 ![Updated]
@@ -5821,7 +5820,7 @@ Core - SUP Consistency Patches updated without version change.
 Core - SUP Conflict Resolution updated without version change.
 ~~~
 
-</Default>
+</Details>
 
 ### 2022-05-08
 
