@@ -5859,7 +5859,7 @@ Core - Major Cities Mesh Overhaul updated to 1.1.
 Core - Immersive Citizens updated to 0.4.0.1.
 ~~~
 
-</Default>
+</Details>
 
 ### 2022-05-01
 
