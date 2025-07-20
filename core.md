@@ -2,27 +2,31 @@
 # 00. SKSE Plugins (Framework)
 
 
-
 ## Address Library for SKSE Plugins
 
-| [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32444) | Version: `11` | Author: `meh321` | ![Core] |
-| Download: | Main Files - All in one (Anniversary Edition) |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
+Version: `11` Author: `meh321` ![Core] 
+- Download: 
+  - Main Files - All in one (Anniversary Edition) 
 
 ## Andrealphus' Papyrus Functions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85252) | Version: `1.5.2` | Author: `AndrealphusVIII` | ![Core]
-Download: | Main Files - ANDR_PapyrusFunctions
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85252) Version: `1.5.2` Author: `AndrealphusVIII` ![Core]
+- Download: 
+  - Main Files - ANDR_PapyrusFunctions
 
 ## Autorun
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45451) | Version: `1.0` | Author: `Ryan - Umgak` | ![Core] 
-Download: | Main Files - Autorun
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45451) Version: `1.0` Author: `Ryan - Umgak` ![Core] 
+- Download: 
+  - Main Files - Autorun
 
 
 ## Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | Version: `3.4.1` | Author: `powerofthree` | ![Core]
-Download: | Main Files - Base Object Swapper
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805)  Version: `3.4.1`  Author: `powerofthree`  ![Core]
+- Download: 
+  - Main Files - Base Object Swapper
 
 ![FOMOD]
 ~~~
