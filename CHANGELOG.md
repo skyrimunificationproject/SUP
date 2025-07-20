@@ -774,6 +774,7 @@ Arch - JK's Interiors Patch Collection updated to 5.26, added merge instructions
 Arch - Snazzy Interiors Patch Collection updated to 2.0.3, added merge instructions
 
 ~~~
+
 </Details>
 
 ### 1.0.0.0 RC11 - 2025-02-10
