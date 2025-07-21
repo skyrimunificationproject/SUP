@@ -6,14 +6,12 @@
 <a href="https://github.com/skyrimunificationproject/SUP/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
 Changelog |
 <a href="https://loadorderlibrary.com/lists/skyrim-unification-project">Load Order</a> |
-<a href="https://github.com/skyrimunificationproject/SUP/blob/main/FAQ.md">FAQ</a> ]
+<a href="https://github.com/skyrimunificationproject/SUP/blob/main/FAQ.md">FAQ</a>  |
+<a href="https://skyrimunificationproject.github.io/">Modlist Details and Manual Installs</a> ]
 </p>
 
 ---
 
-# Note on Changelogs:
-
-The below changelogs are *highlights*; the full changelogs can be searched [here](https://skyrimunificationproject.github.io/changelog.html).
 
 # Table of Contents
 

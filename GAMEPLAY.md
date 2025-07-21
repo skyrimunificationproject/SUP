@@ -6,7 +6,8 @@
 Gameplay Guide |
 <a href="https://github.com/skyrimunificationproject/SUP/blob/main/CHANGELOG.md">Changelog</a> |
 <a href="https://loadorderlibrary.com/lists/skyrim-unification-project">Load Order</a> |
-<a href="https://github.com/skyrimunificationproject/SUP/blob/main/FAQ.md">FAQ</a> ]
+<a href="https://github.com/skyrimunificationproject/SUP/blob/main/FAQ.md">FAQ</a> |
+<a href="https://skyrimunificationproject.github.io/">Modlist Details and Manual Installs</a> ]
 </p>
 
 ---
