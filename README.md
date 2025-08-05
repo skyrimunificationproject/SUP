@@ -66,6 +66,8 @@ A full list of the mods used in this modlist can be viewed [here](https://loador
 
 You can find a summary of all relevant gameplay changes and notable mods on the [Gameplay Guide](https://github.com/skyrimunificationproject/SUP/blob/main/GAMEPLAY.md).
 
+This Wabbajack contains the "Full" install with every available module already enabled and patched for in generated outputs.  Support is only provided for this configuration, but users are free to use different combinations of the modules and utilize the unofficial helpdesk channel.
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
