@@ -56,6 +56,9 @@ Before reading this guide, please ensure you have followed the [Installation Gui
 ### Additional Edits
 
  - High level items have been hand placed at specific spots in the world, some more challenging to obtain than others.
+ - Smelting or breaking down equipment requires the smithing perks of the relevant materials.
+ - All spell books can be sold and purchased regardless of your level in that school of magic.  Spellbook vendors will have random selections, instead of every spell you can actually cast.
+ - Merchants will sell more of the types of ingredients that can be gathered in their region than ones from far away.
 
 ## Combat Foundations
 

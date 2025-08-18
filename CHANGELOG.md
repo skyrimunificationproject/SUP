@@ -12,6 +12,43 @@ Changelog |
 
 ---
 
+ <!--  
+### Template
+
+   Key Info
+   
+   - Not Save-Safe
+
+   <Details>
+   <summary>Changes</summary>
+   
+   #### Added
+   ~~~
+   ~~~
+   
+   #### Removed
+   ~~~
+   ~~~
+   
+   #### Updated
+   ~~~
+   ~~~
+   
+   </Details>
+   
+   <Details>
+   <summary>Patch Notes</summary>
+   
+   #### Bug Fixes
+   
+   - None
+   
+   #### Misc. Tweaks
+   
+   - None
+   
+   </Details>
+ -->
 
 # Table of Contents
 
@@ -24,7 +61,7 @@ Changelog |
 
   - [1.0 RC 12](#10rc12) Release Date: June 8
 
-### 1.0 RC 12
+### 1.0.0.0 RC 13 - 2025-08-17
 
    Key Info
    
@@ -34,10 +71,379 @@ Changelog |
    <summary>Changes</summary>
    
    #### Added
+   ~~~
+   Core - Death Drop Overhaul
+   Core - Death Idle Fix
+   Core - ENB Anti-Aliasing
+   Core - Enchantable Special Item Fix
+   Core - Floating Subtitles
+   Core - Notification Filter
+   Core - Perfectly Valid Wards
+   Core - Sprint Swim Redux SKSE
+   Core - Ultimate NPC Dodging
+   Core - Aptrgangr - Draugr Voice Overhaul
+   Core - Balaur - Dragon Vocal Replacer
+   Core - Blackreach Eerie Ambience
+   Core - Bjorn - Bear SFX
+   Core - Bleeding Edge - Bladed Weapons SFX Overhaul
+   Core - Crone - Hagraven SFX Replacer
+   Core - Deadeye - Bow and Crossbow SFX
+   Core - Distant Rolling Thunder
+   Core - Dungeon Sounds Overhaul
+   Core - Fallen - Falmer SFX
+   Core - Haunted Shipwrecks
+   Core - Inmortui - Undead SFX Replacer
+   Core - Mastodon - Mammoth SFX Overhaul
+   Core - Murder of Songbirds
+   Core - Murmurs and Mead
+   Core - Nordic Winds
+   Core - Revenant Spirits of the Soul Cairn
+   Core - Ribbit Remix
+   Core - Skoll - Werewolf SFX Overhaul
+   Core - Skullbreaker - Blunt Weapons SFX
+   Core - Solstheim Exterior Sounndscapes
+   Core - Sonorum Arcana - The Magic Sound Compendium
+   Core - The Haunting Harmonies of Hjaalmarch
+   Core - The Sounds of Towns and Cities
+   Core - Underwater Loop and Swimming Sounds
+   Core - Unique Shaders Sound FX
+   Core - Volkihar Soundscape Overhaul
+   Core - Whales Off The Coast
+   Core - Whispering Tomes of Apocrypha
+   Core - Wildwood Echoes
+   Core - Ivarstead Source
+   Core - Ivy's Stendarr's Beacon Overhaul
+   Core - Handcarts - Base Object Swapper
+   Core - Missives - Blacklist Expanded - FLM
+   Core - Softly Obscuring Snowfall - No Dirty Ruins Snow
+   Core - Tomato's Solitude
+   Core - Maybe Better Windhelm Valunstrad - Mesh Fixes and Tweaks
+   Core - Vanaheimr -  Northern Roads
+   Core - Gleaming Glaciers
+   Core - Vivid Landscapes - Whiterun's Gildergreen Tree
+   Core - Subdivide and Smooth - Canis Root
+   Core - Higher Poly Vanilla Torture Rack
+   Core - Kanjs - Bones
+   Core - Fixed Spider Eggs and Webs in Solstheim
+   Core - Rally's Guard Shields
+   Core - Ash Hopper HD
+   Core - Chaurus HD
+   Core - Husky HD
+   Core - Netch HD
+   Core - Silt Strider HD
+   Core - Skyrim Snow Dogs (Husky)
+   Core - Troll HD
+   Core - Horse Shoulder Harness Retexture
+   Core - Seamless Cubemaps
+   Core - Praedy's Night Sky AIO
+   Core - Familiar Faces - Comprehensive NPC Overhaul
+   Core - Children of Dawn's Beauty - Resource Mod
+   Core - Children of Dawn's Beauty - CBBE 2k
+   Core - Children of Dawn's Beauty - HIMBO SoS 2k
+   Core - Children of the Ash - A Dunmer NPC Overhaul
+   Core - Children of the First - An Altmer NPC Overhaul
+   Core - Children of the Green - A Bosmer NPC Overhaul
+   Core - eeekie's Resources
+   Core - Northern Women
+   Core - SEC Saints and Seducers High Poly NPCs
+   Core - Zoldyg's Inigo
+   Core - Skyrim Unification Project - HPH Facegen
+   Core - Facial Hair by Khisartin - Standalone
+   Core - Hana's Basic Beards - Argonian
+   Core - Orc Brow Horn Tweaks
+   Core - Dismembering Framework
+   Core - DF - Official Humanoid Asset Pack
+   Core - DF - Official Creature Asset Pack
+   Core - Dragon Random Stagger Animation
+   Core - Dragon Wing Flapping Animation Fix
+   Core - Obscure Animations Overhaul
+   Core - Pristine Vanilla Movement
+   Core - Weapon Switch Animations Complete
+   Core - Axarien's Animations - Vanilla NPCs
+   Core - Dynamic Female Table Leaning
+   Core - Followers Interact with Gestures
+   Core - HSF Male Furniture Idles
+   Core - New Husky Animations
+   Core - Stand Still In RaceMenu
+   Core - Missing Follower Dialogue Edit
+   Core - Immersive First Person Messages
+   Core - Riposte - Parry SFX
+   Core - Wintersun - Reading is Good Patch
+   Core - Extended Cut Saints and Seducers - Tomato Complex Parallax Support - Standalone
+   Core - No More Glowy Effects
+   Core - Vanilla Plus Waterwheel
+   Core - DUST by Ramccoid
+   Core - Deer Reworked - Ultimate
+   Core - Light Magic VFX Edit
+   Core - Psychopatchist Purgatory
+   
+   Adventures - Wyrmstooth - QW's Unique Grasses
+   Adventures - Skyrim Unification Project - HPH Facegen
+   Adventures - Elsopa - Big Backpack HD
+   Adventures - Konahrik's Accoutrements - Xavbio CBBE Bodyslide Patch
+   Adventures - Legacy of the Dragonborn - Museum Gate Remade
+   
+   Addons - Followers - Zoldyg's Xelzaz
+   
+   Arch - JK's Skyrim - Better Cranes
+   Arch - More Dynamic Less Clutter in JKs Riften
+   Arch - More Dynamic Less Clutter in JKs Solitude
+   Arch - Capital Whiterun Expansion - Bucket Fix
+   Arch - JK's Tel Mithryn
+   Arch - JK's Tel Mithryn Patch Collection
+   Arch - Nightgate Inn Revived
+   Arch - Skyrim Unification Project - HPH Facegen
+   ~~~
    
    #### Removed
+   ~~~
+   Core - ENB Helper Plus
+   Core - Load Screen Shading Fix
+   Core - SkyUI 3D Item Offset Fix
+   Core - Phoenix Compendium
+   Core - Environs Western Watchtower Patches (Merged)
+   Core - DynDOLOD The Little Things
+   Core - Dragonsreach 3D Trellis Alternative Style - Whiterun Dragonsreach Door
+   Core - FYX - 3D Whiterun Guard Towers
+   Core - Rodryk's Dragon Bridge Retexture - Solitude Edition
+   Core - Extravagant Interiors - Blue Palace (we still use the 4K version)
+   Core - Daedric Shrines AIO Complex Material
+   Core - Daedric Shrines - Mehrunes Dagon - My Patches by Xtudo
+   Core - Statue of Dibella Complex Material
+   Core - Statue of Kynareth Complex Material
+   Core - Comfy Mammoth Cheese Textures
+   Core - TROLL
+   Core - Quality Cubemaps
+   Core - Interesting NPCs - Interesting Follower Requirements
+   Core - NVICO Modular High-Poly NPC Overhaul - Bandits
+   Core - NVICO Modular High-Poly NPC Overhaul - Townies
+   Core - NVICO MOdular High-Poly NPC Overhaul - Patches
+   Core - High Poly NPC Overhaul - Carriage and Ferry Travel Overhaul
+   Core - High Poly NPC Overhaul - Obscure's College of Winterhold
+   Core - Kalilies NPCs De-Standalone
+   Core - Pandorable's NPCs (only the default version)
+   Core - Pandorable's NPCs - Dragonborn
+   Core - Simply Original and Unadulterated People from UBVARP
+   Core - Inigo the Suave
+   Core - KS Hairdos - Salt and Wind - Update (v1.8)
+   Core - Eyes Nouveaux - Vanilla Presets Patched
+   Core - Better Windhelm Ground Meshes (redundant)
+   Core - Icy Cave Remaster
+   Core - Stairs of Safety - Farmhouses
+   Core - Vanaheimr - Landscapes - AIO - Lux Patch
+   Core - Windhelm Fake Windows Fix (redundant)
+   Core - More Realistic Antlers for Female Elk
+   Core - More Realistic Antlers for Male Elk
+   Core - More Realistic Fur and Antlers for Hearthfire Elks
+   Core - More Realistic Fur and Antlers for Wall Mounted Male Elks
+   
+   Adventures - Modpocalypse NPCS - Resources
+   Adventures - Modpocalypse NPCs - Moon and Star
+   Adventures - Modpocalypse NPCs - The Forgotten City
+   Adventures - Modpocalypse NPCs - The Gray Cowl of Nocturnal
+   Adventures - Simply Original and Unadulterated People from Wyrmstooth
+   Adventures - There Is No Umbra - High Poly Head Patch
+   
+   Addons - Survival - Savage Offspring SKSE (don't want to offer conditional support)
+   Addons - Survival - Slayable Offspring SKSE (don't want to offer conditional support)
+   Addons - Followers - Lulu's Xelzaz
+   
+   Arch - Ashbound (Arch-specific install removed)
+   Arch - JK's Castle Dour
+   Arch - High Poly NPC Overhaul - JK's Skyrim
+   Arch - Modpocalypse NPCs - Expanded Towns and Cities
+   Arch - Modpocalypse NPCs - Settlements Expanded
+   Arch - Riften Docks Overhaul - High Poly Head
+   Arch - Solitude Docks Updated - High Poly NPCs
+   Arch - Capital Windhelm Expansion - High Poly NPC Patch
+   Arch - Capital Whiterun Expansion - High Poly NPC Patch
+   ~~~
    
    #### Updated
+   ~~~
+   Prereqs - Synthesis updated to 0.35.0.
+   Prereqs - BethINI settings updated.
+   Prereqs - DynDOLOD updated to Alpha-194.
+   
+   Core - Andrealphus' Papyrus Functions updated to 1.6.1.
+   Core - Base Object Swapper updated to 3.4.1.
+   Core - Core Impact Framework updated to 1.2.1.
+   Core - Currency Swapper updated to 2.0.0.
+   Core - ENB Extender updated to 1.3.2.
+   Core - Object Categorization Framework KID Patches updated to 2.6.
+   Core - powerofthree's Papyrus Extender updated to 6.1.0.
+   Core - Spell Perk Item Distributor updated to 7.2.0RC23
+   Core - Dialogue History updated to 2.2.0.
+   Core - Helmet Toggle 2 updated to 3.5.1.
+   Core - Invisible Rune Explosion Fix updated to 1.0.4.
+   Core - Magic Fixes and Tweaks SKSE updated to 1.2.0.
+   Core - No Grass In Objects updated to 1.5.5.
+   Core - NPCs Use Potions updated to 4.0.
+   Core - powerofthree's Tweaks updated to 1.14.1.
+   Core - Terrain Helper for ENB updated to 1.0.0.
+   Core - Widescreen Scale Removed updated to 1.0.3.
+   Core - Unofficial Skyrim Special Edition Patch updated to 4.3.6a.
+   Core - Skyrim Particle Patch for ENB updated to 1.3.9.
+   Core - Navigator updated to 1.6.2.
+   Core - Stuck on Screen updated to 0.2.
+   Core - Simplicity of Seeding updated to 0.7.1.
+   Core - Simplicity of Seeding - CACO updated to 1.3.
+   Core - Thalmor Don't Report to Stormcloaks - moved sections
+   Core - ImGui Icons updated to 1.1.0.
+   Core - Show Follower Carry Weight optional files updated
+   Core - CoMAP updated to 4.3.0.
+   Core - Dear Diary Dark Mode - corrected file to download
+   Core - Quest Journal Overhaul Untarnished UI Reskin updated to 1.02.
+   Core - Flat World Map Framework updated to 1.9.91.
+   Core - Environs Ruined Tundra Farmhouse - added FOMOD instructions
+   Core - Whiterun Watchtower Doesn't Start Broken - moved sections
+   Core - Diverse Windmill Sails - moved sections
+   Core - More Silver and Dwemer Kitchenware updated to 1.2.
+   Core - Utenlands Nordic Tents - updated files to download
+   Core - Ruins of the Ideal updated to 2.2.
+   Core - Alternate Start Live Another Life updated to 4.2.5.
+   Core - BUVARP RE updated to 1.3.7.
+   Core - Don't Rush Me Markarth - combined with Riften
+   Core - The Gildergreen Grows updated to 1.2.0.
+   Core - Nilheim Misc Quest Expansion updated to 1.14.
+   Core - The Whispering Door Quest Expansion updated to 1.14.
+   Core - Morrowind Mint - QAC instruction added
+   Core - Rare Curios Bolts Expanded updated to 2.0.0.
+   Core - DynDOLOD Resources updated to Alpha-57.
+   Core - DynDOLOD DLL NG updated to Alpha-36.
+   Core - Illustrious Whiterun - update file added.
+   Core - Praedy's College of Winterhold - moved sections
+   Core - RUSTIC WINDOWS - delete instructions added
+   Core - Skyking Signs updated to 2.1.
+   Core - Skyking Unique Signs updated to 2.1.
+   Core - Remiros' Statues HD - files to download updated
+   Core - Iconic Statues - updated install instructions
+   Core - Overlooked Dungeon Objects Retexture - added delete instructions.
+   Core - Vanaheimr Landscapes AIO updated to 3.5.
+   Core - Nordic Northern Roads - added delete instructions
+   Core - Slightly Better Rock Cairns - merged with EVIL Cairns, moved sections
+   Core - Witchy Wilderness updated to 1.12.
+   Core - Nature of the Wild Lands 3D Hybrid LOD updated to 1.2.
+   Core - Mari's Flora - updated delete instructions.
+   Core - Kanj Nest and Eggs - added delete instructions
+   Core - Slightly Better Honey Nut Treat updated to 1.3.
+   Core - Snazzy Furniture and Clutter Overhaul BOS updated to 3.30.
+   Core - Embers XD updated to 3.1.7.
+   Core - Stahlrim Refrozen - removed misc file
+   Core - Imperial Armors and Weapons Retexture SE updated to 2.0.2.
+   Core - Leather Armors Retexture SE updated to 2.0.
+   Core - Ashbound updated to 2.0.1.
+   Core - Water for ENB updated to 2.14.
+   Core - Natural Waterfalls updated to 3.2.
+   Core - Lux updated to 7.0.
+   Core - High Poly Head - removed ESL instruction (this breaks HPH conversion script), changed FOMOD to symmetrical eyes
+   Core - BeastHHBB - split install into Player-Only and regular (in later section)
+   Core - A Rose in the Snow Reborn updated to 5.0.3.
+   Core - Children of the Pariah updated to 1.2.5.
+   Core - Elevated NPCs updated to 2.1.
+   Core - NITHI NPC Enhancement Whiterun - changed install options
+   Core - RS Children - changed install option
+   Core - Racial Skin Variance - changed install options
+   Core - KS Hairdos Salt and Wind Updated updated to 2.0.
+   Core - Next-Gen Decapitation updated to 1.3.4.
+   Core - Sonders Keyword Distribution Resources updated to 1.9.
+   Core - Smooth Moveset updated to 1.4.
+   Core - Axarien's Animations merged into one mod.
+   Core - Conditional Expressions updated to 1.29.
+   Core - Dynamic Female Weather Idles updated to 1.6.
+   Core - Guards Pose With Weapons updated to 1.2.
+   Core - Hearthfire Multiple Adoptions - added QAC instructions
+   Core - Dragon War updated to 4.1.6.
+   Core - Sanguine Symphony updated to 1.0.1.
+   Core - Apocalypse updated to 10.2.1.
+   Core - NPC Spell Variance updated to 2.4.5.
+   Core - Growl updated to 3.3.1.
+   Core - Experience updated to 3.7.0.
+   Core - GTS Small Mods and Resources - added optional file
+   Core - kryptopyr's Patch Hub updated to 4.2.4.
+   Core - CBBE 3BA WACCF and ACE updated to 1.2.1.
+   Core - Numinous Nord Ruins - added delete instruction
+   Core - ERM Enhanced Rocks and Mountains - page changed, version changed to 1.0.3.
+   Core - Frolique's Fluffy Dust - moved section
+   Core - FYX Smooth Wells Compatibility Tweaks updated to 1.5.0.
+   Core - Majestic Landscapes - ERM Patch - changed name, moved section
+   Core - Metallurgy Consistency Patches - moved section
+   Core - Slightly Better EVIL Rock Cairns - changed to AIO
+   Core - Vanaheimr Landscapes AIO ERM Patch updated to 2.2.1 (see above)
+   Core - Vanaheimr Ore Veins updated to 3.1.
+   Core - Enhanced Rocks and Mountains Addon updated to 3.8.
+   Core - More Realistic Fur and Antlers - several mods merged into one
+   Core - Rudy HQ - More Lights for ENB Decal Fix updated to 0.6.
+   Core - KittyVFX ENBHands updated to 2.0.
+   Core - ENB Silent Horizons 2 Shader Core updated to 1.8.
+   Core - Bodyslide and Outfit Studio updated to 5.7.1.
+   Core - Mgf Fix NG updated to 1.0.4.
+   Core - Lux Patch Hub updated to 7.0.
+   Core - Lux Orbis Patch Hub updated to 4.6.
+   Core - Northern Roads Patch Collection updated to 1.35.
+   Core - Occlusion for Quest Mods renamed,  updated to 1.10.0
+   Core - SFCO3 Patch Collection updated to 1.17.1.
+   Core - The Dragonborn's Bestiary Quest Patch Compendium updated to 1.21.
+   
+   Adventures - Wyrmstooth Brimstone and Wyrmstone Armory updated to 1.5.
+   Adventures - Legacy of the Dragonborn Patches updated to 6.11.0.
+   Adventures - Legacy of the Dragonborn Patches Creation Club updated to 6.0.11.
+   Adventures - Legacy of the Dragonborn Patches Followers updated to 4.0.12.
+   Adventures - Wyrmstooth Upscaled Textures - updated delete instructions
+   Adventures - Final - added ESL instruction for DynamicTreasureMapJournal - DBM.esp.
+   
+   Addons - Survival - Andrealphus' Jobs Overhaul updated to 1.5.2.
+   Addons - Survival - Stress and Fear updated to 2.03.
+   Addons - Survival - More Realistic Antlers for Carry Your Carcasses - added delete instructions.
+   Addons - Survival - Campfire Animations updated to 1.5.1.
+   Addons - Survival - Campfire Dynamic Activation key updated to 1.4.
+   Addons - Followers - Serana Dialogue Addon updated to 4.2.0.
+   Addons - Followers - Serana Dialogue Addon Patch Hub updated to 2.9.6.
+   Addons - Vanilla Locations - Snozz's Resource Pack - added CAO instruction
+   Addons - Vanilla Locations - Ryn's Standing Stones updated to 1.8.
+   Addons - Vanilla Locations - Children of the North updated to 6.6, complex material added as separate mod
+   
+   Arch - Expanded Towns and Cities - updated instructions (no RSC patch)
+   Arch - Snazzy Location Resources updated to 2.0.2, CAO instruction added.
+   Arch - Cities of the North Dawnstar Patch Collection updated to 5.7.
+   Arch - Snazzy Dawnstar AIO updated to 2.2.
+   Arch - Balthazar Books - optional HPH file removed
+   Arch - JK's Thieves Guild HQ updated to 1.0.2.
+   Arch - JK's Thieves Guild HQ Patch Collection updated to 1.9.
+   Arch - Snazzy Riften AIO updated to 2.11, CAO instruction added
+   Arch - JK's Solitude Outskirts updated to 1.2.5.
+   Arch - Snazzy Solitude AIO updated to 2.0.1, CAO instruction added.
+   Arch - Capital Whiterun Expansion - removed RSC patch download
+   Arch - GG's Capital JK's Whiterun - updated instructions, added CAO
+   Arch - JK's Whiterun Outskirts updated to 1.6.2.
+   Arch - Whiterun Exteriors Patch Collection updated to 1.5.
+   Arch - Snazzy Windhelm AIO - added CAO instruction
+   Arch - More Capital Whiterun Expansion Patches updated to 1.6.1.
+   Arch - JK's Fort Dawnguard updated to 1.0.3.
+   Arch - JK's Raven Rock updated to 1.0.3.
+   Arch - Snazzy Raven Rock AIO - added CAO instruction
+   Arch - Snazzy Morthal AIO updated to 2.1.
+   Arch - The Great Town of Ivarstead SSE updated to 1.3.4.
+   Arch - The Great Town Series NPC Replacer - moved section
+   Arch - JK's The Winking Skeever updated to 1.6.0.
+   Arch - JK's Mistveil Keep - added CAO instruction
+   Arch - JK's College of Winterhold Combo Patches updated to 2.10.
+   Arch - JK's Guild HQ Interiors Patch Collection updated to 1.28.
+   Arch - JK's Septimus Signus's Outpost updated to 1.0.2.
+   Arch - JK's Sinderion's Field Laboratory updated to 1.1.3.
+   Arch - Snazzy Misc Locations - added CAO instruction
+   Arch - Snazzy Interiors Patch Collectionn updated to 2.2.
+   Arch - Final - added ESM instruction for Nightgate Inn Revived
+                - added clarification on which Winterholddocks.esp to ESM
+				
+   Final - Added QAC instructions for HearthfireMultiKid.esp, MorrowindUsesDrams.esp
+         - Removed High Poly Head.esm ESL
+		 - Added Ivy Stendarrs Beacon Overhaul.esp ESM
+		 - updated EasyNPC instructions
+		 - updated Synthesis instructions
+		 - updated Bodyslide instructions
+		 - updated Nemesis instructions
+   ~~~
    
    </Details>
    
@@ -49,43 +455,7 @@ Changelog |
    #### Misc. Tweaks
    
    </Details>
-   
-### Template
 
-   Key Info
-   
-   - Not Save-Safe
-
-   <Details>
-   <summary>Changes</summary>
-   
-   #### Added
-   
-   - None
-   
-   #### Removed
-   
-   - None
-   
-   #### Updated
-   
-   - None
-   
-   </Details>
-   
-   <Details>
-   <summary>Patch Notes</summary>
-   
-   #### Bug Fixes
-   
-   - None
-   
-   #### Misc. Tweaks
-   
-   - None
-   
-   </Details>
- 
  ### 1.0.0.0 RC12 - 2025-06-08
 <Details>
    <summary>Changes</summary>
