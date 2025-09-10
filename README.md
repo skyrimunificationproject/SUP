@@ -452,7 +452,7 @@ Simply delete the Skyrim Unification Project folder.
 
 # Issues
 
-Please check the [FAQ](https://github.com/SkyrimUnificationProject/SUP/blob/main/Documentation/FAQ.md) first if you have any issues.
+Please check the [FAQ](https://github.com/skyrimunificationproject/SUP/blob/main/FAQ.md) first if you have any issues.
 
 >[!TIP]
 >If you encounter any bugs or issues while playing the list, please visit our [Skyrim Unification Project](https://discord.gg/UAhtyb2XuK) support server.

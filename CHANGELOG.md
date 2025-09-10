@@ -59,6 +59,7 @@ Changelog |
 
 ## Beta Versions
 
+  - [1.0 RC 13](#10rc13) Release Date: Aug 18
   - [1.0 RC 12](#10rc12) Release Date: June 8
 
 ### 1.0.0.0 RC 13 - 2025-08-17
