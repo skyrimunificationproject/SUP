@@ -59,8 +59,219 @@ Changelog |
 
 ## Beta Versions
 
+  - [1.0 RC 14](#10rc14) Release Date: Sept 18
   - [1.0 RC 13](#10rc13) Release Date: Aug 18
   - [1.0 RC 12](#10rc12) Release Date: June 8
+  
+### 1.0.0.0 RC 14 - 2025-09-18
+
+   Key Info
+   
+   - Not Save-Safe
+
+   <Details>
+   <summary>Changes</summary>
+   
+   #### Added
+   ~~~
+   Core - Auto Name Enchantments
+   Core - Coherent Fight Reactions
+   Core - Debug Menu
+   Core - Debug Menu - Ultrawide
+   Core - TrueHUD - Inventory Injector Patch
+   Core - Legendary Map
+   Core - Legendary Map - Untarnished UI Reskin
+   Core - Japhet's Folly Paper Map for MWMF
+   Core - Anasi - Spider SFX
+   Core - Mephala Revoiced
+   Core - Hit The Hay - A Hay Pile Replacer
+   Core - Immersive Dying Nurelion - The White Phial Quest
+   Core - Tomato's Riften and Ratway
+   Core - Vanaheimr - Farmhouses
+   Core - Totemic Tombstones
+   Core - Elwaps SpeedTree TreePineForest03 Fixed Official
+   Core - HD Honeycomb
+   Core - Snazzy HD Honeycomb
+   Core - Interesting NPCs - Proper Journal Entries
+   Core - Children of the Pariah - CoDB Addon
+   Core - HDT-SMP Amulets and Necklaces - CCOR Patches
+   Core - aMidianBorn Content Addon - 3BA and HIMBO Patch
+   Core - Amber Refossilized Patch Hub
+   Core - Stalhrim Refrozen Patch Hub
+   Core - 3D Junipers
+   Core - Vanaheimr - Farmhouses - Lux Patch
+   Core - Simply Snowy Windhelm
+   Core - Praedy's OCW - Lux - Optimized
+   
+   Arch - Cities of the North - Falkreath - Minotaur Trophy
+   Arch - Drengin's Blue Palace Terrace - Patches
+   Arch - Skyfall's Blue Palace Courtyard
+   Arch - Grand Solitude
+   Arch - Grand Solitude Patch Collection
+   Arch - Grand Solitude - C.O.I.N. Bank Exchange
+   Arch - Rodryk's DB Mesh Optimization - Walkway Mesh Collision Fix
+   Arch - Skyfall's Fort Dawnguard Roofs
+   Arch - Skyfall's Fort Dawnguard Roofs - Custom Texture
+   Arch - Skyfall's Fort Dawnguard Roofs - JK-ClefJ Dawnguard Patch
+   Arch - Simply Snowy Windhelm - Capital Windhelm Patch
+   ~~~
+   
+   #### Removed
+   ~~~
+   Core - ENB Helper
+   Core - Dynamic Animation Casting NG
+   Core - Bleeding Edge - Blading Weapons SFX Overhaul
+   Core - Skullbreaker - Blunt Weapons SFX
+   Core - Illustrious Whiterun - Complex Materials Textures
+   Core - Riverbord's Riften Revival
+   Core - Riften of Reverie
+   Core - Farmhouses of the Nord
+   Core - Nordic Stonewalls
+   Core - Interesting NPCs - Update (4.5.4) - merged into main install
+   Core - OBody Next Generation
+   Core - Quarter Cranks - Racial Bodyslide Presets for CBBE and HIMBO
+   Core - Smooth Moveset
+   Core - Poppy's Assorted CBBE Patches
+   Core - Illustrious Whiterun - Complex Materials Parallax
+   Core - Whiterun Wall Fix
+   Core - Dynamic Interface Patcher
+   
+   Arch - More Dynamic Less Clutter in JKs Solitude
+   Arch - More Dynamic Less Clutter in JKs Whiterun
+   Arch - Drengin's Fortified Ramp to the Castle Dour
+   Arch - Drengin's Solitude Watchtower
+   Arch - Drengin's Solitude Patch Collection
+   Arch - JK's Temple of the Divines
+   ~~~
+   
+   #### Updated
+   ~~~
+   Prerequisites - Creation Kit Platform Extended updated to 0.6-b434
+   Prerequisites - FOMOD Plus updated to 1.170.
+   Prerequisites - DynDOLOD updated to Alpha-196.
+   
+   Core - Core Impact Framework updated to 1.2.3.
+   Core - Description Framework updated to 2.1.2.
+   Core - ENB Extender renamed, updated to 1.4.1.
+   Core - Object Categorization Framework - Some KID Patches updated to 2.8.
+   Core - Death Drop Overhaul updated to 1.2.1.
+   Core - Death Idle Fix updated to 1.0.1.
+   Core - KreatE updated to 1.3.3.
+   Core - Magic Fixes and Tweaks SKSE updated to 2.0.0.
+   Core - No Grass In Objects updated to 1.5.8.
+   Core - NPCs Use Potion updated to 4.1, instructions updated.
+   Core - Photo Mode updated to 2.0.2.
+   Core - powerofthree's Tweaks updated to 1.15.1.
+   Core - SSE Engine Fixes updated to 7.0.18.
+   Core - Unofficial Skyrim Special Edition Patch updated to 4.3.6c.
+   Core - Navigator updated to 1.6.3.
+   Core - CritterSpawn Congestion Fix - Script Call Reduction updated to 1.4.
+   Core - Dragonactorscript Infinite Loop Fix updated to 1.4.2.
+   Core - Zero Bounty Hostility Fix updated to 0.5.
+   Core - Hotkey Reminder updated to 1.0.4.
+   Core - Tween Menu Overhaul - Untarnished UI Reskin - moved sections
+   Core - Flat World Map Framework updated to 1.9.92.
+   Core - Whispers of the Daedric Princes - moved sections
+   Core - Farmhouse Chimneys updated to 4.2.1.
+   Core - Simple Snow Improvements - Skyrim - Base Object Swapper updated to 2.3.
+   Core - Snazzy Wall Mounted Trophies - Base Object Swapper updated to 1.3.
+   Core - Utenlands Nordic Tents updated to 1.2.2.
+   Core - Unmarked Locations Pack AIO updated to 1.3a.
+   Core - After the Civil War - Siege Damage Repairs updated to 2.6.3.
+   Core - Thalmor Don't Report To Stormcloaks updated to 1.2.
+   Core - Headhunter - Bounties Redone updated to 1.58.
+   Core - Missives - Quest Edits for Unique Missive Board Mods updated to 1.1.2.
+   Core - Missives - Worldspace Additions - Solstheim updated to 2.11.1.
+   Core - DynDOLOD Resources DLL NG updated to Alpha-39.
+   Core - Assorted Mesh Fixes updated to 0.129.
+   Core - Illustrious Whiterun updated to 3.8, files to download updated
+   Core - Riverbord Solitude - instructions updated
+   Core - Mrf's Solitude updated to 3.0.5.
+   Core - Nordic Stonewall Terraces updated to 2.10.
+   Core - Icy Mesh Remaster updated to 3.32.
+   Core - Improved Solitude Arch updated to 1.33.
+   Core - Gleaming Glaciers updated to 1.1.
+   Core - Nature of the Wild Lands updated to 3.14.
+   Core - Aspens Ablaze updated to 2.38.
+   Core - BURP - section moved
+   Core - wd - Barrels updated to 1.3.
+   Core - Spell Rune Retexture updated to 1.4.
+   Core - JS Vanilla Circlets SE updated to 1.16.
+   Core - Elven Armors and Weapons Retexture SE updated to 2.0.
+   Core - Higher Poly Vanilla Saddles updated to 1.3.
+   Core - Simplicity of Snow - moved sections
+   Core - Water for ENB updated to 2.15.
+   Core - Natural Waterfalls updatedd to 3.3.
+   Core - Song of the Green - Enhanced Voice Remastered updated to 2.2.2.
+   Core - Children of Dawn's Beauty updated to 1.05.
+   Core - Children of the Ash updated to 1.03.
+   Core - Children of the First updated to 1.04.
+   Core - Children of the Green updated to 1.08.
+   Core - Zoldyg's Inigo updated to 1.7.1.
+   Core - Dismembering Framework updated to 1.2.2.
+   Core - Next-Gen Decapitations updated to 1.4.0.
+   Core - New Creature Animation - Dwarven Centurion updated to 1.006.
+   Core - Odin updated to 3.1.0.
+   Core - NPC Spell Variance updated to 2.4.9.
+   Core - NPC Spell Variance - Vanilla Spells updated to 1.0.2.
+   Core - Growl updated to 3.4.0.
+   Core - Ordinator - Odin Compatibility Patch updated to 3.0.0.
+   Core - CBBE 3BA Vanilla Outfits Redone updated to 5.0.0.
+   Core - CBBE 3BA WACCF and ACE updated to 1.3.0.
+   Core - Golden Saint Armory Revamped Patch Hub updated to 1.1.2.
+   Core - ERM Enhanced Rocks and Mountains updated to 1.1.0.
+   Core - Markarth Fixed AF - updated instructions
+   Core - Vanaheimr ERM Patch updated to 2.3.
+   Core - ENB - Silent Horizons 2 Shader Core updated to 1.10.
+   Core - lilebonymace's Patches - updated to 2.48.
+   Core - Northern Roads Patch Collection updated to 1.36.
+   Core - The Dragonborn's Bestiary - Quest Patch Compendium AIO updated to 1.22.
+   
+   Addons - Survival - Immersive Aggressive Opponents updated to 1.9.
+   Addons - Survival - Simple Hunting Overhaul updated to 1.15.
+   Addons - Survival - Stress and Fear updated to 2.04.
+   Addons - Survival - Campfire - Dynamic Activation Key updated to 1.5.
+   Addons - Followers - Serana Dialogue Add-On updated to 4.2.2.
+   Addons - Followers - Xelzaz updated to 1.13.1.
+   Addons - Followers - Zoldyg's Xelzaz updated to 1.4.
+   Addons - Vanilla Locations - Combo Patch - Snozz and Ryn's - White River Watch updated to 1.0.1.
+   Addons - Vanilla Locations - Children of the North Wind updated to 6.8.1.
+   
+   Adventures - Legacy of the Dragonborn - Patches updated to 6.12.0.
+   
+   Arch - The Great City of Winterhold - Simple Snow Improvement BOS updated to 1.6.1.
+   Arch - JK's Blue Palace Terrace updated to 2.2.1.
+   Arch - JK's Solitude Outskirts Patch Collection updated to 1.11.
+   Arch - Capital Whiterun Expansion - Fixed Meshes updated to 1.2.
+   Arch - ClefJ's Morthal updated to 1.2.2.
+   Arch - Snazzy Misc Locations updated to 2.2.
+   Arch - Capital Windhelm Expansions - Collision Fixes updated to 1.3.
+   
+   Final - Removed clean instructions for Better Courier
+           Added ESL flag for IcyFixes
+		   Removed instruction for iHud
+		   
+		   Updated Bodyslide instructions
+		   
+   Final - Arch - Removed ESMify instructions for Blue Palace Terrace, JK's Castle Dour,
+                  JK's Temple of the Divines, SOlitude Watchtower
+				  Added ESMify instructions for Skyfalls BP Courtyard
+   ~~~
+   
+   </Details>
+   
+   <Details>
+   <summary>Patch Notes</summary>
+   
+   #### Bug Fixes
+   
+   - None
+   
+   #### Misc. Tweaks
+   
+   - None
+   
+   </Details>
 
 ### 1.0.0.0 RC 13 - 2025-08-17
 
