@@ -668,7 +668,7 @@ Changelog |
    
    </Details>
 
- ### 1.0.0.0 RC12 - 2025-06-08
+ ### 1.0.0.0 RC 12 - 2025-06-08
  
 <Details>
    <summary>Changes</summary>

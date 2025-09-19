@@ -174,7 +174,7 @@ To change your Skyrim SE's language:
 >[!WARNING]
 > ***Do NOT skip this step or your install may fail!***
 
-Since the 1.6.1130 update (January 17, 2024), Steam has begun including the free Creation Club (CC) files with the base installation of Skyrim. However, these files do not have the same file hash as the files that are downloaded from the in-game **Creations** menu for Anniversary Edition (AE) users. For simplicity, Skyrim Unification Project utilizes the *Steam* version of this file.
+Since the 1.6.1130 update (January 17, 2024), Steam has begun including the free Creation Club (CC) files with the base installation of Skyrim. However, these files do not have the same file hash as the files that are downloaded from the in-game **Creations** menu for Anniversary Edition (AE) users. In order to comply with Wabbajack policy and minimize issues for users who own the AE update, Skyrim Unification Project is compiled using the versions of the CC content that are obtained from the in-game **Creations** menu.  
 
 As a result of this, for users who do not own the AE, you must ensure that you download the correct version of the CC files. Steps below:
 
@@ -183,10 +183,15 @@ As a result of this, for users who do not own the AE, you must ensure that you d
  - Delete *both* Rare Curios files:
     - `ccbgssse037-curios.bsa`
     - `ccbgssse037-curios.esl`
- - In your Steam library, right-click The Elder Scrolls V: Skyrim Special Edition, and select Properties.
- - Click Installed Files.
- - On the right, click "Verify integrity of game files" and let it run.
- - If you install/update multiple modlists, you may have to flip back and forth between refreshing Creations and verifying Steam. Blame Todd.
+ - Launch Skyrim SE from Steam and select **Creations** at the main menu
+ - Select **Search** at the bottom and search for `Rare Curios`
+ - Select the card titled `Rare Curios` and press **Download**
+ - Once it is done, accept Bethesda's load order message and exit the game
+
+>[!IMPORTANT]
+>
+>- **DO NOT** Alt+Tab during this process or it will fail to properly download these files.
+>- **DO NOT** verify your game files after doing the steps above as it will revert the "correct" file hashes for the CC files you downloaded in this step.
 
 
 ## Wabbajack Installation
