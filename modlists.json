@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Skyrim Unification Project",
+    "description": "Full install version of Skyrim Unification Project, a modular list focused on consistency above all else.  Tldr contains: Enairim, custom MLU/OWL-style gameplay and loot overhaul, Legacy of the Dragonborn, many many city overhauls.  Valhalla/Precision combat, no MCO.",
+    "author": "ra2phoenix",
+    "maintainers": [
+      "github/ra2phoenix"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/skyrimunificationproject/SUP/main/Skyrim%20Unification%20Project.webp",
+      "readme": "https://skyrimunificationproject.github.io/",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20Unification%20Project.wabbajack_c2112155-08ac-40d0-ad86-94061e3af1eb",
+      "machineURL": "SkyrimUnificationProject",
+      "discordURL": "https://discord.gg/UAhtyb2XuK"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash":"PlI9/SIS0Vw=",
+"Size":424783697,
+"NumberOfArchives":2375,
+"SizeOfArchives":182895488587,
+"NumberOfInstalledFiles":245015,
+"SizeOfInstalledFiles":309721462160,
+"TotalSize":492616950747
+    },
+    "version": "1.0.0"
+  }
+]
