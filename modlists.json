@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Skyrim Unification Project",
     "description": "Full install version of Skyrim Unification Project, a modular list focused on consistency above all else.  Tldr contains: Enairim, custom MLU/OWL-style gameplay and loot overhaul, Legacy of the Dragonborn, many many city overhauls.  Valhalla/Precision combat, no MCO.",
     "author": "ra2phoenix",
@@ -8,32 +7,37 @@
       "github/ra2phoenix"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/skyrimunificationproject/SUP/main/Skyrim%20Unification%20Project.webp",
       "readme": "https://skyrimunificationproject.github.io/",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20Unification%20Project.wabbajack_921bde8b-1c92-4bab-b4fb-9fba85d54054",
+      "download": "https://authored-files.wabbajack.org/Skyrim Unification Project.wabbajack_bbbe4398-55e7-4c9a-8d81-af74f359567d",
       "machineURL": "SkyrimUnificationProject",
-      "discordURL": "https://discord.gg/UAhtyb2XuK"
+      "discordURL": "https://discord.gg/UAhtyb2XuK",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-     "Hash":"xKw8Qlbxuk4=",
-"Size":424248180,
-"NumberOfArchives":2375,
-"SizeOfArchives":182890220362,
-"NumberOfInstalledFiles":245020,
-"SizeOfInstalledFiles":309720518292,
-"TotalSize":492610738654
+      "Hash": "Ny7/0pK4w88=",
+      "Size": 424246337,
+      "NumberOfArchives": 2375,
+      "SizeOfArchives": 182890220362,
+      "NumberOfInstalledFiles": 245071,
+      "SizeOfInstalledFiles": 309831297823,
+      "TotalSize": 492721518185
     },
-    "version": "1.0.0"
+    "version": "1.0.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-10-05T22:08:03.4931707Z",
+    "repositoryName": ""
   }
 ]
