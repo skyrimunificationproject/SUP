@@ -1,7 +1,7 @@
 [
   {
     "title": "Skyrim Unification Project",
-    "description": "Full install version of Skyrim Unification Project, a modular list focused on consistency above all else.  Tldr contains: Enairim, custom MLU/OWL-style gameplay and loot overhaul, Legacy of the Dragonborn, many many city overhauls.  Valhalla/Precision combat, no MCO.",
+    "description": "Full install version of Skyrim Unification Project, a modular list focused on consistency above all else.  Tldr contains: Enairim, custom MLU/OWL-style gameplay and loot overhaul, Legacy of the Dragonborn, Northern Roads, full Lux suite, many many city overhauls.  Valhalla/Precision combat, no MCO.  Designed for and built with Silent Horizons 2 NAT Core ENB.",
     "author": "ra2phoenix",
     "maintainers": [
       "github/ra2phoenix"
@@ -24,7 +24,7 @@
       "download": "https://authored-files.wabbajack.org/Skyrim Unification Project.wabbajack_bbbe4398-55e7-4c9a-8d81-af74f359567d",
       "machineURL": "SkyrimUnificationProject",
       "discordURL": "https://discord.gg/UAhtyb2XuK",
-      "websiteURL": ""
+      "websiteURL": "https://skyrimunificationproject.github.io/"
     },
     "download_metadata": {
       "Hash": "Ny7/0pK4w88=",
