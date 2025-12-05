@@ -1,7 +1,7 @@
 [
   {
     "title": "Skyrim Unification Project",
-    "description": "Full install version of Skyrim Unification Project, a modular list focused on consistency above all else.  Contains: Enairim, custom MLU/OWL-style gameplay and loot overhaul, Legacy of the Dragonborn, Northern Roads, full Lux suite, many many city overhauls.  Valhalla/Precision combat, no MCO.  Designed for and built with Silent Horizons 2 NAT Core ENB.  Uses Flat Map World Framework.  NOTE: Some areas may have lower FPS on older machines.",
+    "description": "Full install version of Skyrim Unification Project, a modular list focused on consistency above all else.  Contains: Enairim, custom MLU/OWL-style gameplay and loot overhaul, Legacy of the Dragonborn, Northern Roads, full Lux suite, many many city overhauls.  Valhalla/Precision combat, no MCO.  Designed for and built with Silent Horizons 2 NAT Core ENB.  Uses Flat World Map Framework.  NOTE: Some areas may have lower FPS on older machines.",
     "author": "ra2phoenix",
     "maintainers": [
       "github/ra2phoenix"
@@ -15,7 +15,7 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
