@@ -25,7 +25,12 @@
       "machineURL": "SkyrimUnificationProject",
       "discordURL": "https://discord.gg/UAhtyb2XuK",
       "websiteURL": "https://skyrimunificationproject.github.io/",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "475357",
+        "slug": "becgn8",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "DbOKMcBdLSk=",
