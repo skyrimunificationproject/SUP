@@ -21,7 +21,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/skyrimunificationproject/SUP/main/Skyrim%20Unification%20Project.webp",
       "readme": "https://skyrimunificationproject.github.io/",
-      "download": "https://authored-files.wabbajack.org/Skyrim Unification Project.wabbajack_f878e341-0d8a-4ed2-a989-9d337a638ec9",
+      "download": "https://authored-files.wabbajack.org/Skyrim Unification Project.wabbajack_ddaa2045-e494-4dce-98fc-e1c824a4d18d",
       "machineURL": "SkyrimUnificationProject",
       "discordURL": "https://discord.gg/UAhtyb2XuK",
       "websiteURL": "https://skyrimunificationproject.github.io/",
@@ -33,17 +33,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "tvkF7z5tBns=",
-      "Size": 459979967,
-      "NumberOfArchives": 2753,
-      "SizeOfArchives": 220833585047,
-      "NumberOfInstalledFiles": 319839,
-      "SizeOfInstalledFiles": 343973803892,
-      "TotalSize": 564807388939
+      "Hash": "fzcsL99u9i4=",
+      "Size": 459945326,
+      "NumberOfArchives": 2755,
+      "SizeOfArchives": 221104926931,
+      "NumberOfInstalledFiles": 320209,
+      "SizeOfInstalledFiles": 344004686260,
+      "TotalSize": 565109613191
     },
-    "version": "1.4.0",
+    "version": "1.4.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-11T21:54:55.553325Z",
+    "dateUpdated": "2026-07-19T07:09:17.0057455Z",
     "repositoryName": ""
   }
 ]
